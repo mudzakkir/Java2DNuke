@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com;
 
 import java.awt.*;
 import java.awt.geom.Arc2D;
@@ -11,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author USER
+ * @author MToha 201643570041
  */
 public class Java2D extends JPanel {
 
